@@ -4,7 +4,7 @@ export default {
   common: {
     ok: 'OK',
     cancel: 'Annuler',
-    key_backspace: 'Retour Arr.',
+    key_backspace: 'Retour en Arrière',
     key_del: 'Suppr.',
     key_down: 'Bas',
     key_up: 'Haut',
